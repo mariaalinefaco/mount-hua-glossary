@@ -1,10 +1,25 @@
-wrong,correct,category,level,notes
-Death penalty,Sahyung,title,safe,senior brother same rank
-Execution,Sahyung,title,safe,senior brother same rank
-Capital punishment,Sahyung,title,safe,senior brother same rank
-Priest,Saje,title,safe,junior brother
-Midfield,Jungwon,place,safe,Central Plain
-Bimu,duel,action,safe,spar or match
-Yangmin,civilians,group,safe,ordinary people
-Yangban,high class,group,safe,high position or martial class
-Magician,Magyo,group,safe,demonic faction
+wrong,correct,category,level,notes,source
+Death penalty,Sahyung,title,safe,senior brother same rank,forum_1
+Execution,Sahyung,title,safe,senior brother same rank,forum_1
+Capital punishment,Sahyung,title,safe,senior brother same rank,forum_1
+Priest,Saje,title,safe,junior brother,forum_1
+Midfield,Jungwon,place,safe,Central Plain,forum_1
+Bimu,duel,action,safe,spar or match,forum_1
+Yangmin,civilians,group,safe,ordinary people,forum_1
+Yangban,high class,group,safe,high position or martial class,forum_1
+Magician,Magyo,group,safe,demonic faction,forum_1
+
+Long writer,Sect Leader,title,safe,confirmed in multiple glossaries,forum_1_forum_2
+Long Man,Sect Leader,title,safe,confirmed in multiple glossaries,forum_1_forum_2
+Jang mun-in,Sect Leader,title,safe,confirmed in multiple glossaries,forum_1_forum_2
+
+late index,Rising Star,title,safe,confirmed in multiple glossaries,forum_1_forum_2
+
+Freeze to death,bullshit,expression,medium,can also mean ridiculous or makes no sense,forum_1_forum_2
+
+History,Qi,concept,medium,can refer to energy or internal strength,forum_1_forum_2
+
+Water lily,training,activity,safe,confirmed in multiple glossaries,forum_1_forum_2
+
+Good man,Ancestor,title,safe,confirmed in multiple glossaries,forum_1_forum_2
+Good men,Ancestor,title,safe,confirmed in multiple glossaries,forum_1_forum_2

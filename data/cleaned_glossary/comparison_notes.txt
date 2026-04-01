@@ -1,0 +1,21 @@
+Confirmed in both glossaries:
+- Long writer / Jang mun-in -> Sect Leader
+- late index -> Rising Star
+- Freeze to death -> bullshit / ridiculous / makes no sense
+- History -> Qi / energy
+- Water lily -> training
+- Good man / Good men -> Ancestor
+
+Promising but needs review:
+- top of the galaxy -> Eunha Merchant Guild
+- Hwajong / Jonghwa Branch -> Conference
+- Munpa / literary -> Sect
+- Seomseo -> Shaanxi Province
+- Hwaeum / chord / harmony -> Huayin
+- Open / openness -> Beggar Union
+
+Too context-dependent for automatic replacement:
+- Servant / Mundo -> disciple
+- Door -> house/sect
+- rain -> spar/match
+- South / South Korea -> Namyung
